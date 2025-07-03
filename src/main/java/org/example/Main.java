@@ -9,7 +9,7 @@ public class Main {
         for (int i = 1; i <= 5; i++) {
 
 
-            System.out.println("Hello!" + i);
+            System.out.println("Hello!" + i + 100);
    
         }
     }
